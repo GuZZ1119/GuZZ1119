@@ -1,0 +1,199 @@
+Date: Sat, 3 Sep 2022 23:21:03 +0800
+Message-ID: <0001844c$12a5aee0$05e668d0$YinXiangBiJi>
+MIME-Version: 1.0
+Content-Type: text/html; 
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Evernote® v7.00.36.5627
+
+<html>
+<head>
+  <title>Evernote Export</title>
+  <basefont face=3D"=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91" size=3D"2" />
+  <meta http-equiv=3D"Content-Type" =
+content=3D"text/html;charset=3Dutf-8" />
+  <meta name=3D"exporter-version" content=3D"YXBJ Windows/605627 (zh-CN, =
+DDL); Windows/10.0.0 (Win64); EDAMVersion=3DV2;"/>
+  <style>
+    body, td {
+      font-family: =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91;
+      font-size: 10pt;
+    }
+  </style>
+</head>
+<body>
+<a name=3D"516"/>
+
+<div>=0A<span><div style=3D"min-height: 10pt; text-align: left;"><font =
+style=3D"font-size: 14pt;"><span style=3D"min-height: 10pt; color: =
+rgb(128, 128, 128); font-family: NSimSun;">#include</span><span =
+style=3D"min-height: 10pt; color: rgb(163, 21, 21); font-family: =
+NSimSun;">&lt;stdio.h&gt;</span></font></div><div style=3D"min-height: =
+10pt; text-align: left;"><font style=3D"font-size: 14pt;"><span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">int</span> <span style=3D"min-height: 10pt; font-family: =
+NSimSun;">main()--------------------------------------------------=E4=B8=BB=
+=E5=87=BD=E6=95=B0</span></font></div><div style=3D"min-height: 10pt; =
+text-align: left;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;"><font style=3D"font-size: 14pt;">{</font></span></div><div =
+style=3D"min-height: 10pt; text-align: left;"><font style=3D"font-size: =
+14pt;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">int</span> <span style=3D"min-height: 10pt; font-family: =
+NSimSun;">max(</span><span style=3D"min-height: 10pt; color: rgb(0, 0, =
+255); font-family: NSimSun;">int</span> <span style=3D"min-height: 10pt; =
+color: rgb(128, 128, 128); font-family: NSimSun;">x</span><span =
+style=3D"min-height: 10pt; font-family: NSimSun;">,</span> <span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">int</span> <span style=3D"min-height: 10pt; color: rgb(128, =
+128, 128); font-family: NSimSun;">y</span><span style=3D"min-height: =
+10pt; font-family: =
+NSimSun;">);-----------------------=E5=AF=B9=E8=A2=AB=E8=B0=83=E7=94=A8=E5=
+=87=BD=E6=95=B0MAX=E7=9A=84=E5=A3=B0=E6=98=8E</span></font></div><div =
+style=3D"min-height: 10pt; text-align: left;"><font style=3D"font-size: =
+14pt;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">int</span> <span style=3D"min-height: 10pt; font-family: =
+NSimSun;">a,b,c;</span></font></div><div style=3D"min-height: 10pt; =
+text-align: left;"><font style=3D"font-size: 14pt;"><span =
+style=3D"min-height: 10pt; font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0scanf_s(</span>=
+<span style=3D"min-height: 10pt; color: rgb(163, 21, 21); font-family: =
+NSimSun;">&quot;%d,%d&quot;</span><span style=3D"min-height: 10pt; =
+font-family: NSimSun;">,&amp;a,&amp;b);</span></font></div><div =
+style=3D"min-height: 10pt; text-align: left;"><span style=3D"min-height: =
+10pt; font-family: NSimSun;"><font style=3D"font-size: =
+14pt;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0c =3D =
+max(a,b);</font></span></div><div style=3D"min-height: 10pt; text-align: =
+left;"><font style=3D"font-size: 14pt;"><span style=3D"min-height: 10pt; =
+font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0printf(</span><=
+span style=3D"min-height: 10pt; color: rgb(163, 21, 21); font-family: =
+NSimSun;">&quot;max =3D %d\n&quot;</span><span style=3D"min-height: =
+10pt; font-family: NSimSun;">,c);</span></font></div><div =
+style=3D"min-height: 10pt; text-align: left;"><font style=3D"font-size: =
+14pt;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">return</span> <span style=3D"min-height: 10pt; font-family: =
+NSimSun;">0;</span></font></div><div style=3D"min-height: 10pt; =
+text-align: left;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;"><font style=3D"font-size: 14pt;">}</font></span></div><div =
+style=3D"min-height: 10pt; text-align: left;"><font style=3D"font-size: =
+14pt;"><span style=3D"min-height: 10pt; color: rgb(0, 0, 255); =
+font-family: NSimSun;">int</span> <span style=3D"min-height: 10pt; =
+font-family: NSimSun;">max(</span><span style=3D"min-height: 10pt; =
+color: rgb(0, 0, 255); font-family: NSimSun;">int</span> <span =
+style=3D"min-height: 10pt; color: rgb(128, 128, 128); font-family: =
+NSimSun;">x</span><span style=3D"min-height: 10pt; font-family: =
+NSimSun;">,</span> <span style=3D"min-height: 10pt; color: rgb(0, 0, =
+255); font-family: NSimSun;">int</span> <span style=3D"min-height: 10pt; =
+color: rgb(128, 128, 128); font-family: NSimSun;">y</span><span =
+style=3D"min-height: 10pt; font-family: =
+NSimSun;">)----------------------------------------=E5=AE=9A=E4=B9=89MAX=E5=
+=87=BD=E6=95=B0=EF=BC=88=E6=95=B4=E5=9E=8B=EF=BC=8C=E5=BD=A2=E5=BC=8F=E5=8F=
+=82=E6=95=B0x=EF=BC=8Cy=E4=B8=BA=E6=95=B4=E5=9E=8B=EF=BC=89<font =
+style=3D"color: rgb(227, 0, 0);"><b><i>=E4=B8=8D</i></b></font><font =
+color=3D"#FF0000"><i><b>=E8=83=BD=E6=9C=89=E5=88=86=E5=8F=B7=EF=BC=81</b>=
+</i></font></span></font></div><div style=3D"min-height: 10pt; =
+text-align: left;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;"><font style=3D"font-size: 14pt;">{</font></span></div><div =
+style=3D"min-height: 10pt; text-align: left;"><font style=3D"font-size: =
+14pt;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">int</span> <span style=3D"min-height: 10pt; font-family: =
+NSimSun;">z;</span></font></div><div style=3D"min-height: 10pt; =
+text-align: left;"><font style=3D"font-size: 14pt;"><span =
+style=3D"min-height: 10pt; font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">if</span> <span style=3D"min-height: 10pt; font-family: =
+NSimSun;">(</span><span style=3D"min-height: 10pt; color: rgb(128, 128, =
+128); font-family: NSimSun;">x</span> <span style=3D"min-height: 10pt; =
+font-family: NSimSun;">&gt;</span> <span style=3D"min-height: 10pt; =
+color: rgb(128, 128, 128); font-family: NSimSun;">y</span><span =
+style=3D"min-height: 10pt; font-family: NSimSun;">)z =3D</span> <span =
+style=3D"min-height: 10pt; color: rgb(128, 128, 128); font-family: =
+NSimSun;">x</span><span style=3D"min-height: 10pt; font-family: =
+NSimSun;">;</span></font></div><div style=3D"min-height: 10pt; =
+text-align: left;"><font style=3D"font-size: 14pt;"><span =
+style=3D"min-height: 10pt; font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">else</span> <span style=3D"min-height: 10pt; font-family: =
+NSimSun;">z =3D</span> <span style=3D"min-height: 10pt; color: rgb(128, =
+128, 128); font-family: NSimSun;">y</span><span style=3D"min-height: =
+10pt; font-family: NSimSun;">;</span></font></div><div =
+style=3D"min-height: 10pt; text-align: left;"><font style=3D"font-size: =
+14pt;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><span =
+style=3D"min-height: 10pt; color: rgb(0, 0, 255); font-family: =
+NSimSun;">return</span><span style=3D"min-height: 10pt; font-family: =
+NSimSun;">(z);---------------------------------=E6=8C=87=E5=AE=9Az=E4=B8=BA=
+=E6=9C=80=E7=BB=88=E5=87=BD=E6=95=B0=E5=80=BC=EF=BC=8C<b><i><font =
+style=3D"color: rgb(255, 0, =
+0);">=E4=B8=8D=E8=A6=81=E6=97=A0=E8=84=91=E5=86=99return0!!!!</font></i><=
+/b></span></font></div><div style=3D"min-height: 10pt; text-align: =
+left;"><font style=3D"font-size: 14pt;"><span style=3D"min-height: 10pt; =
+font-family: NSimSun;"><b><i><font style=3D"color: rgb(255, 0, =
+0);"><br/></font></i></b></span></font></div><div style=3D"min-height: =
+10pt; text-align: left;"><span style=3D"min-height: 10pt; font-family: =
+NSimSun;"><font style=3D"font-size: 14pt;">}</font></span></div><div =
+style=3D"min-height: 10pt; text-align: left;"><span style=3D"min-height: =
+10pt; font-family: NSimSun;"><font style=3D"font-size: =
+14pt;">//C=E8=AF=AD=E8=A8=80=E7=A8=8B=E5=BA=8F=E7=BB=93=E6=9E=84<br/></fo=
+nt></span></div><div style=3D"min-height: 10pt; text-align: left;"><span =
+style=3D"min-height: 10pt; font-family: NSimSun;"><font =
+style=3D"font-size: =
+14pt;">//=E4=B8=80=E4=B8=AA=E7=A8=8B=E5=BA=8F=E7=94=B1<font =
+style=3D"color: rgb(255, 0, =
+0);">=E4=B8=80=E4=B8=AA=E6=88=96=E5=A4=9A=E4=B8=AA=E6=BA=90=E7=A8=8B=E5=BA=
+=8F=E6=96=87=E4=BB=B6</font>=E7=BB=84=E6=88=90</font></span></div><div =
+style=3D"min-height: 10pt; text-align: left;"><span style=3D"min-height: =
+10pt; font-family: NSimSun;"><font style=3D"font-size: =
+14pt;">//=E5=9C=A8=E4=B8=80=E4=B8=AA=E6=BA=90=E7=A8=8B=E5=BA=8F=E6=96=87=E4=
+=BB=B6=E4=B8=AD=E5=8F=AF=E4=BB=A5=E5=8C=85=E5=90=AB<font style=3D"color: =
+rgb(255, 0, =
+0);"><b>3</b></font>=E4=B8=AA=E9=83=A8=E5=88=86</font></span></div><div =
+style=3D"min-height: 10pt; text-align: left;"><font style=3D"font-size: =
+14pt;"><b><font style=3D"color: rgb(20, 113, =
+145);"><i>1.=E9=A2=84=E5=A4=84=E7=90=86=E6=8C=87=E4=BB=A4</i></font></b>=EF=
+=BC=9A=E5=A6=82#???&lt;???&gt;</font></div><div style=3D"min-height: =
+10pt; text-align: left;"><font style=3D"font-size: =
+14pt;">//=E5=AF=B9=E4=BA=8E</font><span style=3D"font-size: 14pt; =
+min-height: 10pt; color: rgb(128, 128, 128); font-family: =
+NSimSun;">#include</span><span style=3D"font-size: 14pt; min-height: =
+10pt; color: rgb(163, 21, 21); font-family: =
+NSimSun;">&lt;stdio.h&gt;</span><span style=3D"font-size: 14pt; =
+min-height: 10pt; font-family: =
+NSimSun;">=E6=9D=A5=E8=AF=B4=EF=BC=8C=E5=B0=B1=E6=98=AF=E6=8A=8A</span><s=
+pan style=3D"font-size: 14pt; min-height: 10pt; font-family: =
+NSimSun;">&lt;stdio.h&gt;=E7=9A=84=E5=A4=B4=E6=96=87=E4=BB=B6=E5=86=85=E5=
+=AE=B9=E8=AF=BB=E5=87=BA=E6=9D=A5=E5=8F=96=E4=BB=A3</span><span =
+style=3D"font-size: 14pt; min-height: 10pt; color: rgb(128, 128, 128); =
+font-family: NSimSun;">#include</span><span style=3D"font-size: 14pt; =
+min-height: 10pt; color: rgb(163, 21, 21); font-family: =
+NSimSun;">&lt;stdio.h&gt;</span></div><div style=3D"min-height: 10pt; =
+text-align: left;"><span style=3D"font-size: 14pt; min-height: =
+10pt;"><font style=3D"color: rgb(20, 113, =
+145);"><b><i>2.=E5=85=A8=E5=B1=80=E5=A3=B0=E6=98=8E=EF=BC=9A</i></b></fon=
+t><font face=3D"NSimSun">=E5=A6=82int =
+a=EF=BC=8Cb=EF=BC=8Cc</font></span></div><div style=3D"min-height: 10pt; =
+text-align: left;"><span style=3D"font-size: 14pt; min-height: =
+10pt;"><font style=3D"font-family: =
+NSimSun;">//=E5=8F=AF=E4=BB=A5=E5=90=A7int =
+a,b,c=E6=94=BE=E5=9C=A8main=E5=87=BD=E6=95=B0=E5=89=8D=E4=BD=9C=E4=B8=BA=E5=
+=85=A8=E5=B1=80=E5=A3=B0=E6=98=8E=EF=BC=8C=E5=9C=A8<font style=3D"color: =
+rgb(227, 0, =
+0);">=E6=95=B4=E4=B8=AA</font>=E6=BA=90=E7=A8=8B=E5=BA=8F=E6=96=87=E4=BB=B6=
+=E8=8C=83=E5=9B=B4=E5=86=85=E6=9C=89=E6=95=88</font></span></div><div =
+style=3D"min-height: 10pt; text-align: left;"><span style=3D"font-size: =
+14pt; min-height: 10pt;"><font style=3D"color: rgb(20, 113, =
+145);"><b><i>3.=E5=87=BD=E6=95=B0=E5=AE=9A=E4=B9=89</i></b></font></span>=
+</div><div style=3D"min-height: 10pt; text-align: left;"><span =
+style=3D"font-size: 14pt; min-height: 10pt; color: rgb(163, 21, 21); =
+font-family: NSimSun;"><br/></span></div></span>=0A</div></body></html>
+ 
